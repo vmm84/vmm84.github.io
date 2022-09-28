@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Lebanon</title>
+  </head>
+
+  <body>
+    <h1>Get to know Vivi Martell</h1>
+
+    <p>Vivi Martell was born and raised in Miami, Florida. Her real name is Vivianne, but she usually goes by Vivi.</p>
+
+    <p>Vivi is Cuban-American and has two siblings. Her older sister, Vanessa is 28 years old and her older brpther Tico is 25.</p>
+
+    <p>Vivi loves being with her friends, writing and going for runs.</p>
+
+    <p>After college Vivi hopes to move to the United Kingdom and hopes to work in Journalism.</p>
+
+
+    <h2>How often Vivi runs</h2>
+
+    <table>
+      <caption></caption>
+      <tr>
+        <th>Month</th>
+        <th>Average Pace</th>
+      </tr>
+
+      <tr>
+        <td>July</td>
+        <td>6</td>
+          <td></td>
+      </tr>
+
+      <tr>
+        <td>August</td>
+        <td>8</td>
+          <td></td>
+      </tr>
+
+      <tr>
+        <td>September</td>
+        <td>7</td>
+        <td></td>
+      <tr>
+
+
+
+      <tr>
+    </table>
+
+
+    <h2>Facts about Vivi!</h2>
+
+    <p>Vivi's favorite food is sushi</p>
+
+    <p>Vivi has a golden doodle named Francisco, but his nickname is Paco<p>
+
+    <p>Vivi is a member of Zeta Tau Alpha.</p>
+
+    <p>Vivi's favorite color is pink.</p>
+
+
+    <h3>Childhood Life</h3>
+
+    <p>As a child, Vivi was a ballerina and tap dancer for five years, she later became a competetive cheerleader which she did until her senior year of High School</p>
+
+    <h3>High School Life</h3>
+
+    <p> Vivi attended an all girls high school called Our lady of Lourdes Academy, it was a catholic School.</p>
+
+    <h3>College Life</h3>
+
+    <p>Vivi joined the Univeriaty of Miami as a spring admin, where she lived in Stanford dorms. </p>
+
+
+    <h3>Post graduation plans!</h3>
+
+    <p>Vivi is a senior, studying journalism and media management, post graduation she hopes to intern with at a Journalism office that focuses on documentary journalism.</p>
+
+
+
+    <h3>Most Desired Locations To Move Post Graduation</h3>
+
+    <ol>
+      <li>London</li>
+      <li>New York</li>
+      <li>California</li>
+      <li>Miami</li>
+      <li>Madrid</li>
+      <li>Salamanca</li>
+      <li>Paris</li>
+      <li>Rome</li>
+      <li>Colorado</li>
+      <li>Amsterdam</li>
+    </ol>
+
+
+    <h3>Desired Jobs</h3>
+
+    <p>Vivi hopes to pursue a career in Journalism, most specifically Documentary journalism.</p>
+
+    <table>
+      <caption>Magic Kingdom area resorts</caption>
+      <tr>
+        <th>Jobs</th>
+        <th>Location</th>
+        <th>Payment</th>
+        <th>about</th>
+      </tr>
+
+      <tr>
+        <td>Journalism film maker</td>
+        <td>Salamanca, Spain</td>
+        <td>$60,000/per year</td>
+        <td>This job focuses on film making</td>
+      </tr>
+
+      <tr>
+        <td>Media management</td>
+        <td>London, United Kingdom</td>
+        <td>80,000/ per year</td>
+        <td>This job focuses on media managing a social media account for a brand</td>
+      </tr>
+
+      <tr>
+        <td>Print Journalism</td>
+        <td>Los Angeles, California</td>
+        <td>70,000/ per year</td>
+        <td>This job focuses on writing for a journalism office</td>
+      </tr>
+
+      <tr>
+        <td>Free Lance Writer</td>
+        <td>Miami, Florida</td>
+        <td>tbd/per year</td>
+        <td>This job consist of free lance writing for blogs and social media platforms</td>
+      </tr>
+    </table>
+
+  </body>
+</html>
