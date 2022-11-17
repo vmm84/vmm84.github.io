@@ -13,3 +13,13 @@ body {
 h2, h3 {
   color: rgb(105,66,10);
 }
+
+nav {
+  box-sizing: content-box;
+  background-color: rgb(107,64,56);
+  width: 200px;
+  content: 200px
+  padding:6px, 6px
+  border: 3px, #333
+  total:215px;
+}
