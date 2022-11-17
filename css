@@ -23,3 +23,8 @@ nav {
   border: 3px, #333
   total:215px;
 }
+
+#People and Society{
+  background-color: rgba(69,105,159,0.15);
+  border: 1px dashed rgb(69,105,159);
+}
