@@ -9,6 +9,9 @@ body {
    color: black;
 
    a:hover {
-    background-color: rgb(233,80,58);
+    background-color: rgb(233,80,58,0.5);
   }
-  
+
+  h2, h3 {
+  color: rgb(68,121,235,0.5);
+}
