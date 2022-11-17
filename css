@@ -24,7 +24,10 @@ nav {
   total:215px;
 }
 
-#introduction {
-  background-color: rgba(69,105,159,0.15);
-  border: 1px dashed rgb(69,105,159);
+a:hover {
+  background-color: rgba(231,209,75,0.5);
+}
+
+h2, h3 {
+  color: rgb(69,105,159);
 }
