@@ -27,12 +27,3 @@ nav {
 a:hover {
   background-color: rgba(231,209,75,0.5);
 }
-
-abbr[title] {
-  text-decoration-color: rgb(221,81,59);
-  text-decoration-style: wavy;
-}
-
-.alt-bg {
-  background-color: rgba(201,53,68,0.2);
-}
