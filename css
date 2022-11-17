@@ -5,8 +5,6 @@ body {
  margin: 0 auto;
  max-width: 800px;
 }
-body {
-   color: black;
 
    a:hover {
     background-color: rgb(233,80,58,0.5);
@@ -14,4 +12,72 @@ body {
 
   h2, h3 {
   color: rgb(68,121,235,0.5);
+}
+
+p, li {
+  line-height: 1.5;
+}
+
+ul > li {
+  list-style-type: square;
+}
+
+abbr[title] {
+  text-decoration-color: rgb(233,80,58);
+  text-decoration-style: wavy;
+}
+
+time[datetime^="19"] {
+  font-style: italic;
+  color: rgb(69,105,159);
+}
+
+
+
+nav a {
+  color: rgb(69,105,159);
+}
+
+section {
+  margin-bottom: 16px;
+  padding: 16px;
+  background-color: rgba(231,209,75,0.15);
+}
+
+aside > p {
+  font-style: italic;
+}
+
+footer a {
+  color: #000;
+}
+
+
+/* id Selectors */
+#introduction {
+  background-color: rgba(69,105,159,0.15);
+  border: 1px dashed rgb(69,105,159);
+}
+
+#return-to-top {
+  background-color: rgb(231,209,75);
+}
+
+#geography aside {
+  border: 1px dashed rgb(69,105,159);
+  padding-left: 16px;
+}
+
+
+.first {
+  font-weight: bold;
+}
+
+.first::first-letter {
+  font-size: 22px;
+}
+
+.highlight {
+  font-weight: bold;
+  color: rgb(69,105,159);
 }
