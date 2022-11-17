@@ -7,9 +7,9 @@ body {
 }
 
 body {
-  color: rgba(255, 0, 0, 0.5);
+  color: rgb(221,81,59);
 }
 
 h2, h3 {
-  color: rgb(221,81,59);
+  color: rgb(0,255,0);
 }
