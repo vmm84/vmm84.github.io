@@ -5,3 +5,10 @@ body {
  margin: 0 auto;
  max-width: 800px;
 }
+body {
+   color: black;
+
+   a:hover {
+    background-color: rgb(233,80,58);
+  }
+  
