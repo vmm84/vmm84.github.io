@@ -27,3 +27,7 @@ nav {
 a:hover {
   background-color: rgba(231,209,75,0.5);
 }
+
+body {
+  background-color: rgb(255,112,0.5)
+}
