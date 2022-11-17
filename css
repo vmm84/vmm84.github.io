@@ -29,6 +29,10 @@ a:hover {
 }
 
 abbr[title] {
-  text-decoration-color: rgb(69,105,159);
+  text-decoration-color: rgb(221,81,59);
   text-decoration-style: wavy;
+}
+
+.alt-bg {
+  background-color: rgba(201,53,68,0.2);
 }
