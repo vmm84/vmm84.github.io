@@ -45,7 +45,11 @@ h3 {
 }
 
 #Peopleandsociety{
-  margin-bottom: 20px;
-  padding:30px;
-  border: 4px solid rgb (107,64,56)
+  box-sizing: content-box;
+  background-color: rgb(107,64,56);
+  width: 600px;
+  content: 600px
+  padding:6px, 6px
+  border: 7px, #777
+  total:615px;
 }
