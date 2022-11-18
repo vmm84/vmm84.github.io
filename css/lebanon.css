@@ -32,3 +32,18 @@ a:hover {
 h2 {background-color: rgb(242,173,72)
 border:3px solid rgb
 }
+
+header, footer {
+  grid-column: 1/-1
+  padding-left: 25px;
+  background-color: #FFFFFF
+  border: 3px solid rgb(78,97,114);
+}
+
+footer {
+  margin-bottom: 20px;
+}
+
+header {
+  margin-top: 20px;
+}
