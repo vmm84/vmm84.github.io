@@ -5,6 +5,8 @@ body {
  margin: 0 auto;
  max-width: 800px;
 }
+background-color: rgb(0,255,255)
+}
 
 body {
   color: rgb(221,81,59);
@@ -30,4 +32,13 @@ a:hover {
 
 h2 {background-color: rgb(242,173,72)
 border:3px solid rgb
+}
+
+body {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid grid-gap: 10px;
+
+  max-width: 600px;
+  margin: 2 auto;
 }
