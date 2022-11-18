@@ -50,3 +50,9 @@ h3 {
   border: 8px, #222
   total:320px;
 }
+
+section {
+  margin-bottom: 20px
+  padding:30px;
+  border: 4px solid rgb (107,64,56)
+}
