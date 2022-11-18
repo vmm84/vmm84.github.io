@@ -33,6 +33,15 @@ h2 {background-color: rgb(242,173,72)
 border:3px solid rgb
 }
 
+body {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid grid-gap: 20px
+
+  max-width: 960px
+  margin: 0 auto;
+}
+
 header, footer {
   grid-column: 1/-1
   padding-left: 25px;
