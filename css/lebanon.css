@@ -33,13 +33,6 @@ h2 {background-color: rgb(242,173,72)
 border:3px solid rgb
 }
 
-h3 {
- line-height: 1.5;
- font-family: sans-serif;
- margin: 0 auto;
- max-width: 800px;
-background-color: rgb(179,179,179)
-}
 
 h3 {
   box-sizing: content-box;
