@@ -40,3 +40,13 @@ h3 {
  max-width: 800px;
 background-color: rgb(179,179,179)
 }
+
+h3 {
+  box-sizing: content-box;
+  background-color: rgb(107,64,56);
+  width: 200px;
+  content: 200px
+  padding:6px, 6px
+  border: 3px, #333
+  total:215px;
+}
