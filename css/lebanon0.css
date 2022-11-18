@@ -53,13 +53,3 @@ h3 {
   border: 7px, #777
   total:615px;
 }
-
-#Geography{
-  box-sizing: content-box;
-  background-color: rgb(242,173,72);
-  width: 600px;
-  content: 600px
-  padding:6px, 6px
-  border: 7px, #777
-  total:615px;
-}
