@@ -1,1 +1,115 @@
-CNAME
+<html lang="en">
+  <head>
+    <meta charset="utf-8" >
+    <title>Vivi's Guide to Fashion</title>
+    <link href="css/lebanon.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <header>
+      <h1>Lebanon</h1>
+      <p>Lebanon is in the middle east on the eastern side of the mediterranean sea. It borders Syria to the north and east and Israel to the south. Although it is in the middle east, Lebanon is not a country full of hot sandy deserts, but mountains cover the country. The three largest cities in Lebanon are Tripoli, Beirut, and Sidon, with its capital being Beirut. Lebanon is a cultural melting pot, filled with people from different religions and cultures. Arabic is the most popular language, and Islam is the most common religion.</p>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#Lan-1">Whats Hot!</a></li>
+        <li><a href="#Pop-2">Whats Not!</a></li>
+        <li><a href="#Etg-3">Affordable</a></li>
+        <li><a href="#Loc-4">Lux</a></li>
+        <li><a href="#Clim-5">Trendy</a></li>
+        <li><a href="#El-6">Timeless</a></li>
+        <li><a href="#Gt-7">Celeberity Inspo</a></li>
+        <li><a href="#Cp-8">Who Wore It Best?</a></li>
+        <li><a href="#PD-9">Style Hacks</a></li>
+      </ul>
+    </nav>
+
+    <main>
+
+      <h2>People and Society</h2>
+  <section id=People>
+      <article id="Lan-1">
+        <h3>Languages</h3>
+
+        <p> The official language is Arabic, but French, English, and Armenian are popular as well.</p>
+      </article>
+
+      <article id="Pop-2">
+        <h3>Population</h3>
+
+        <p>As of 2022 the population is 5,296,814.</p>
+      </article>
+
+      <article id="Eg-3">
+
+
+        <h3>Ethnic Groups</h3>
+
+        <p>The majority of Lebanon is Arab with 95%, and Armenian at 4%, while other ethnic groups making up the 1%.</p>
+      </article>
+</section>
+
+      <h2>Geography</h2>
+<section id=Geography>
+    <article id="Loc-4">
+      <h3>Location</h3>
+
+      <p>Lebanon is in the Middle East. It borders Syria to the north and east and Israel to the south.</p>
+    </article>
+
+
+      <article id="Clim-5">
+        <h3>Climate</h3>
+
+        <p>Lebanon has a Mediterranean climate, which includes hot and dry summers and cold and rainy winters. In the Spring time, it is possible to swim along the coast and go skiing in the mountains. </p>
+      </article>
+
+      <article id="El-6">
+        <h3>Elevation</h3>
+
+        <p>Lebanon's highest peak elevation is Qurnat al-Sawdāʾ. It is in northern Lebanon and is 3,088 meters. Therefore Lebanon is one of the highest countries in the world. Lebanon's lowest elevation level is the Mediterranean sea at 0 meters.</p>
+      </article>
+</section>
+
+
+<h2>Government</h2>
+<section id=Government>
+      <article id="Gt-7">
+        <h3>Government Type</h3>
+
+        <p>Lebanon has a parliamentary republic type of Government.</p>
+      </article>
+
+      <article id="Cp-8">
+        <h3>Capital</h3>
+
+        <p>Beirut is the capital of Lebanon and the largest city. Beirut has a population of 2.4 million, therefore it is the third-largest city in the Levant region. </p>
+      </article>
+
+      <article id="PD-9">
+        <h3>Population distribution</h3>
+
+        <p>In Lebanon, most people live near the Mediterranean coast. Most specifically, Beirut, which is the capital. </p>
+      </article>
+    </section>
+
+<figure>
+  <img src="Lebanon_Temple_of_Jupiter_at_Baalbek-3.jpg" alt="The Temple of Jupiter." >
+  <figcaption> The Temple of Jupiter is the largest Roman temple in the world. It is located in Baalbek in Lebanon's Bekaa Valley. Photo by: <a
+  href="https://www.cia.gov/the-world-factbook/countries/lebanon/images"> CIA Images</a> from<a
+  href=""CIA</a></figcaption>
+</figure>
+
+
+
+    </main>
+
+    <footer>
+      <p>Source: <a href="https://www.cia.gov/the-world-factbook/countries/lebanon/#introduction">CIA World Factbook</a></p>
+    </footer>
+  </link>
+
+  </body>
+</html>
