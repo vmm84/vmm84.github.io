@@ -9,3 +9,36 @@ body {
 body {
   color: rgb(0,0,0);
 }
+
+h2, h3 {
+  color: rgb(105,66,10);
+}
+
+nav {
+  box-sizing: content-box;
+  background-color: rgb(107,64,56);
+  width: 600px;
+  content: 600px
+  padding:6px, 6px
+  border: 7px, #777
+  total:615px;
+}
+
+a:hover {
+  background-color: rgba(231,209,75,0.5);
+}
+
+h2 {background-color: rgb(242,173,72)
+border:3px solid rgb
+}
+
+
+h3 {
+  box-sizing: content-box;
+  background-color: rgb(107,64,56);
+  width: 300px;
+  content: 300px
+  padding:8px, 9px
+  border: 8px, #222
+  total:320px;
+}
