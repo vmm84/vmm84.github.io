@@ -16,7 +16,7 @@ h2, h3 {
 
 nav {
   box-sizing: content-box;
-  background-color: rgb(100,100,100);
+  background-color: rgb(255,0,0);
   width: 600px;
   content: 600px
   padding:6px, 6px
