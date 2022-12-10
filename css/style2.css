@@ -5,3 +5,7 @@ body {
   max-width: 800px;
  background-color: rgb(100,70,80)
 }
+
+body {
+  color: rgb(80,70,60);
+}
