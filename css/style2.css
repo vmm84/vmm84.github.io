@@ -8,6 +8,11 @@ body {
 
 body {
   color: rgb(0,0,0);
+  display grid-template-columns: 1 fr 2 fr;
+  grid grid-gap: 20 px;
+
+  max-width: 960 px
+  margin: 0 auto;
 }
 
 h1, h2, h3 {
