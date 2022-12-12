@@ -59,14 +59,14 @@ a:hover {
   background-color: rgba(100,100,100);
 }
 
-h2 {background-color: rgb(242,173,72)
+h2 {background-color: rgb(255,255,255)
 border:3px solid rgb
 }
 
 
 h3 {
   box-sizing: content-box;
-  background-color: rgb(107,64,56);
+  background-color: rgb(255,255,255);
   width: 300px;
   content: 300px
   padding:8px, 9px
@@ -75,5 +75,5 @@ h3 {
 
 
 img {
-  border: 6px solid rgb (255,105,180)
+  border: 6px solid rgb (255,255,255)
 }
