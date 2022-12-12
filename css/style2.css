@@ -23,6 +23,14 @@ header, footer {
   background-color: #FFFFFF
 }
 
+header {
+  margin-top: 15px;
+}
+
+footer {
+  margin-bottom: 15px;
+}
+
 a {
 padding: 2px 1px 0;
 }
