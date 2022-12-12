@@ -23,6 +23,15 @@ header, footer {
   background-color: #FFFFFF
 }
 
+a {
+padding: 2px 1px 0;
+}
+
+a:hover {
+background-color: (250,210,241);
+
+}
+
 h1, h2, h3 {
   color: rgb(255,105,180);
 }
