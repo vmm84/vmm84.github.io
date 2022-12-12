@@ -14,6 +14,11 @@ body {
   max-width: 960 px
   margin: 0 auto;
 }
+header, footer {
+  grid-column: 2/-2
+  padding-left: 25px;
+  background-color: #FFFFFF
+}
 
 h1, h2, h3 {
   color: rgb(252, 250, 250);
