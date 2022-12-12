@@ -51,17 +51,6 @@ h3 {
   padding:8px, 9px
   border: 8px, #222
   total:320px;
-}
-
-h1, h2 {
-  box-sizing: content-box;
-  background-color: rgb(107,64,56);
-  width: 300px;
-  content: 300px
-  padding:8px, 9px
-  border: 8px, #222
-  total:320px;
-}
 
 
 img {
