@@ -52,3 +52,7 @@ h3 {
   border: 8px, #222
   total:320px;
 }
+
+img {
+  border: 6px solid rgb (107,64,56)
+}
