@@ -20,7 +20,6 @@ background-color: rgb (255,255,255)
 header, footer {
   grid-column: 2/-2
   padding-left: 25px;
-  border-style: double;
     border-color: (255,255,255)
   background-color: rgb (255,255,255)
 }
