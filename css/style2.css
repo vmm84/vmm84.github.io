@@ -20,7 +20,7 @@ body {
 header, footer {
   grid-column: 2/-2
   padding-left: 25px;
-  background-color: #FFFFFF
+  background-color: rgb (250, 210, 241)
 }
 
 header {
