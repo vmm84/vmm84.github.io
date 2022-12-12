@@ -1,6 +1,8 @@
+@import "https://fonts.google.com/specimen/Zen+Dots";
+
 body {
   line-height: 2.0;
-  font-family: sans-serif;
+  font-family: "Zen+Dots";
   margin: 0 auto;
   max-width: 800px;
  background-color: rgb(250, 210, 241)
